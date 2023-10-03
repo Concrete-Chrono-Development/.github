@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Please visit our forum on Stack Overflow to ask questions and join the community!
+
+https://stackoverflowteams.com/c/concrete-chrono-development
+
 <!--
 
 **Here are some ideas to get you started:**
