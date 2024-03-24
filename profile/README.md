@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Please visit our forum on Stack Overflow to ask questions and join the community!
 
-https://stackoverflowteams.com/c/concrete-chrono-development
 
 <!--
 
